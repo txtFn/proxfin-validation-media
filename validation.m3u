@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="validation-news" tvg-name="Validation News" tvg-chno="1000" group-title="News",Validation News
+https://txtfn.github.io/proxfin-validation-media/validation-news.m3u8
+#EXTINF:-1 tvg-id="validation-kids" tvg-name="Validation Kids" tvg-chno="1001" group-title="Kids",Validation Kids
+https://txtfn.github.io/proxfin-validation-media/validation-kids.m3u8
+#EXTINF:-1 tvg-id="validation-sports" tvg-name="Validation Sports" tvg-chno="1002" group-title="Sports",Validation Sports
+https://txtfn.github.io/proxfin-validation-media/validation-sports.m3u8
